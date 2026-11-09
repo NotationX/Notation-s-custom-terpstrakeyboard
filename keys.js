@@ -326,6 +326,9 @@ function goKeyboard() {
       fileName: "rhodes",
       fade: 0.1
     }, {
+      fileName: "yamahacseven",
+      fade: 0.1
+    }, {
       fileName: "harp",
       fade: 0.2
     }, {
